@@ -14,7 +14,7 @@ const app = new Clarifai.App({
 });
 
 // const particlesOptions = {
-//   particles: {
+//  sadasd particles: {
 //     number: {
 //       value: 30,
 //       density: {
